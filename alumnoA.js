@@ -1,4 +1,4 @@
-/ Base de Datos de Usuarios Sugeridos
+
 const listaUsuarios = [
     {
         nombre: "Britney Spears",
